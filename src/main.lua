@@ -227,7 +227,9 @@ BACKDOOR_SOLVER[1] = {
         local src = ('local d = Instance.new("BoolValue", workspace);d.Name = "%s";game:GetService("Debris"):AddItem(d, 3);'):format(
             dummyName
         );
-        runRemote(r, src);
+        if r.Parent ~= game:GetService('RobloxReplicatedStorage') then
+            runRemote(r, src);
+        end
     end,
     Execute = function(g, code)
         return runRemote(g.b, code);
