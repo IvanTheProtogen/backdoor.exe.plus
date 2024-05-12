@@ -13,7 +13,7 @@
     <img alt="License: GPL--3.0" src="https://img.shields.io/github/license/iK4oS/backdoor.exe" />
   </a>
   <div align="center">
-  <h1>⚠️ THIS IS NOT A CONTINUATION OF A DISCONTINUED PROJECT! ⚠️</h1>
+  <h1>⚠️ THIS IS NOT AN OFFICIAL CONTINUATION OF A DISCONTINUED PROJECT! ⚠️</h1>
 </div>
 </p>
 
