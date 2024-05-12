@@ -17,7 +17,7 @@
 --]========================================================================]
 
 --[
-    This script is not an unofficial continuation of
+    This script is not an official continuation of
     discontinued backdoor.exe, please remember.
     ~ Ivan
 --]
