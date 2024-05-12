@@ -16,11 +16,11 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 --]========================================================================]
 
---[
+--[[
     This script is not an official continuation of
     discontinued backdoor.exe, please remember.
     ~ Ivan
---]
+--]]
 
 --// TYPES \\--
 --[[ export type LikelyBackdoor = RemoteEvent|RemoteFunction;
